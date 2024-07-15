@@ -9,6 +9,6 @@ import java.util.Scanner;
         Float width = sc1.nextFloat();
 
 
-        System.out.println("Permiter is : "+2*( length + width ));
+        System.out.println("Permit is : "+2*( length + width ));
     }
 }
